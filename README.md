@@ -1,3 +1,3 @@
 # PORTFOLIO WEBSITE
 This repo contains all elements that were used in creating my portfolio site on GitHup pages.
-[Visit my site![Alt text](image.png)](https://elvis-darko.github.io/)
+[Visit my site!)](https://elvis-darko.github.io/)
